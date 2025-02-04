@@ -7,16 +7,6 @@
 
 
 ### For Live Overview ➡️ [RemoteHub](http://127.0.0.1:5500/responsive-website/)<br>
-<img src="./website_image/1.png" width="900">
-<img src="./website_image/2.png" width="900">
-<img src="./website_image/3.png" width="900">
-<img src="./website_image/4.png" width="900">
-<img src="./website_image/5.png" width="900">
-<img src="./website_image/6.png" width="900">
-<img src="./website_image/7.png" width="900">
-<img src="./website_image/8.png" width="900">
-
-
 
 
 
